@@ -1,0 +1,16 @@
+# Python build scripts (used only for local generation)
+build_*.py
+gen*.py
+write_*.py
+patch.py
+p1.py
+
+# Python virtual environment
+venv/
+
+# Editor
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
