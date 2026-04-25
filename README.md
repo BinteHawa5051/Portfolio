@@ -2,7 +2,7 @@
 
 Personal portfolio website for Tooba Akram, AI/ML Engineer and Software Engineering student at NUST, Rawalpindi, Pakistan.
 
-🔗 **Live:** [https://portfolio-bintehawa5051.vercel.app](https://portfolio-bintehawa5051.vercel.app)
+🔗 **Live:** [https://portfolio-zeta-woad-93.vercel.app](https://portfolio-zeta-woad-93.vercel.app)
 
 ---
 
